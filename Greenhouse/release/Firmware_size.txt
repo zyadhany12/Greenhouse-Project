@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   5352	    140	     36	   5528	   1598	C:\Users\HP\Desktop\NTI Training\Greenhouse\release\Firmware.elf
